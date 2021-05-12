@@ -14355,9 +14355,9 @@
 														"$ref": "AAAAAAF5CZBTyJTyleY="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 115.9052734375,
+													"width": 102.791015625,
 													"height": 13,
 													"text": "SequenceDiagram1"
 												},
@@ -14370,7 +14370,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -18124,7 +18124,7 @@
 									"font": "Arial;13;0",
 									"left": 271,
 									"top": 27,
-									"width": 149.39453125,
+									"width": 149,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5Cdh3D5l/MYY="
@@ -18317,7 +18317,7 @@
 									"font": "Arial;13;0",
 									"left": 274,
 									"top": 99.5,
-									"width": 162.42626953125,
+									"width": 161,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5CdiwWJmuy5s="
@@ -18500,7 +18500,7 @@
 									"font": "Arial;13;0",
 									"left": 281,
 									"top": 175,
-									"width": 159.5,
+									"width": 159,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5CdkdkJniuVk="
@@ -19246,7 +19246,7 @@
 									"font": "Arial;13;0",
 									"left": 349.5,
 									"top": 507,
-									"width": 179.79345703125,
+									"width": 179,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5CdsEjJrsHvI="
@@ -19442,7 +19442,7 @@
 									"font": "Arial;13;0",
 									"left": 370,
 									"top": 599,
-									"width": 163.88623046875,
+									"width": 163,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5Cds1DJsaMrg="
@@ -19630,7 +19630,7 @@
 									"font": "Arial;13;0",
 									"left": 369,
 									"top": 767,
-									"width": 159.55712890625,
+									"width": 159,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5CdtV/JtI9tA="
@@ -19819,7 +19819,7 @@
 									"font": "Arial;13;0",
 									"left": 425.5,
 									"top": 855,
-									"width": 198.53173828125,
+									"width": 197,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5Cdt1Rpt2NT4="
@@ -20211,7 +20211,7 @@
 									"font": "Arial;13;0",
 									"left": 701.5,
 									"top": 895,
-									"width": 181.1708984375,
+									"width": 181,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF5CdvNQpvSCoE="
